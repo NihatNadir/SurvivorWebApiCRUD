@@ -23,19 +23,18 @@
 - #### API test
 ###### Using the Postman and Swagger API test
 - Category Swagger and Postman API test
-###### ![image](https://github.com/user-attachments/assets/36c82d23-c3cd-47f7-a2fa-0b70e298c656)
-###### ![image](https://github.com/user-attachments/assets/2f82f4df-d1f8-4b1b-a13d-dd0dc96d1eef)
-###### ![image](https://github.com/user-attachments/assets/aa7df85b-eaf4-44fd-bbf3-133840b061fc)
-###### ![image](https://github.com/user-attachments/assets/abca3d6c-612a-4a5a-bdf6-2831a778ce45)
-###### ![image](https://github.com/user-attachments/assets/5642149a-1275-43b5-820e-8d134f133ab4)
-###### ![image](https://github.com/user-attachments/assets/8064624b-1b0c-4ff9-865f-c7ab6511555d)
+###### ![image](https://github.com/user-attachments/assets/1f42952f-5984-4eb4-ad68-400923ad9108)
+###### ![image](https://github.com/user-attachments/assets/e4277246-0952-4f01-9e0f-77bf91f5fdd3)
+###### ![image](https://github.com/user-attachments/assets/bbdd4407-4851-4f58-b1b9-0e0d178c543b)
+
+
 ---
 - Competitor Swagger and Postman API test 
-###### ![image](https://github.com/user-attachments/assets/c97472b8-e802-4f3b-b158-fc37d05ed88c)
-###### ![image](https://github.com/user-attachments/assets/08de97a2-7d86-4e90-84a5-dc0f2d0763bb)
-###### ![image](https://github.com/user-attachments/assets/c13faa4b-e4ae-48af-9530-134e5d282f98)
-###### ![image](https://github.com/user-attachments/assets/110872f2-cb78-4e74-a735-dc9314493c20)
-###### ![image](https://github.com/user-attachments/assets/550d83a4-8732-49c4-9a5a-5c69db2d4193)
+###### ![image](https://github.com/user-attachments/assets/79adf3ff-ed88-49c8-b672-18abdd14992d)
+###### ![image](https://github.com/user-attachments/assets/29ff4eee-ac25-41b2-8d9b-977addd03472)
+###### ![image](https://github.com/user-attachments/assets/a873425b-57ac-4573-821a-7a57dd52de1b)
+
+
 
 ---
 ## Survivor yarışması için bir Web API uygulaması oluşturacaksınız. Bu uygulama, yarışmacılar ve kategoriler arasında bir ilişki içerecek ve bu ilişkilerle ilgili CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren API endpointler içerecektir.
